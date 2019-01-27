@@ -1,6 +1,6 @@
 # Welcome to Brawl Stars
 
-## Add me:
+### Add me:
 link
 link
 link
