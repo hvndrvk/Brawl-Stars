@@ -1,5 +1,13 @@
 # Welcome to Brawl Stars
 
 (text)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#1
+##2
+###3
+####4
+#####5
+######6
+#######7
+########8
+#########9
+##########10
